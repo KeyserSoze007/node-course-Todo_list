@@ -47,8 +47,8 @@ newUser.save().then((doc) => {
     console.log(doc);
 }, (err) => {
     console.log('Cannot show the document', err);
-});*/
-
+});
+*/
 /*
 
 var newTodo = new Todo({
